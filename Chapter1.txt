@@ -1,1 +1,1 @@
-gitPracticing command line and Git!
+gitPracticing command line and Git adding some gobbly goo for practice on branching!
